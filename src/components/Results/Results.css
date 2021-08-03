@@ -1,0 +1,10 @@
+.results-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px 40px;
+    margin-top: 28px;
+	
+	flex-direction: row;
+	
+}
